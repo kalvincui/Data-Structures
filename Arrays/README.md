@@ -16,7 +16,7 @@ An array is a group of similar elements or data items of the same type collected
 - When it comes to insertion and deletion, it is a bit difficult because the elements are stored sequentially and the shifting operation is expensive
 
 ## Member functions
-###Iterators:
+### Iterators:
 begin
 - Return iterator to beginning
 
@@ -51,7 +51,7 @@ max_size
 empty
 - Test whether array is empty
 
-###Element access
+### Element access
 operator[]
 - Access element
 
@@ -67,7 +67,7 @@ back
 data
 - Get pointer to data
 
-###Modifiers
+### Modifiers
 fill 
 - Fill array with value
 
