@@ -15,3 +15,9 @@ int main (){
         intstack.pop();
     }
 }
+
+/* Output
+3
+2
+1
+*/
